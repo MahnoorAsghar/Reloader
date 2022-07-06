@@ -37,7 +37,7 @@ jobs:
         make install
 
     - name: Run golangci-lint
-      uses: golangci/golangci-lint-action@v2.3.0
+      uses: golangci/golangci-lint-action@v2.5.2
       with:
         version: v1.45.2
         only-new-issues: false
