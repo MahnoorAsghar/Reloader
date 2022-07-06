@@ -34,7 +34,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.STAKATER_GITHUB_TOKEN }}
 
       - name: Notify Slack
-        uses: 8398a7/action-slack@v3
+        uses: 8398a7/action-slack@v3.13.0
         if: always()
         with:
           status: ${{ job.status }}
