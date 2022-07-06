@@ -137,6 +137,8 @@ github.com/aphistic/golf v0.0.0-20180712155816-02c07f170c5a/go.mod h1:3NqKYiepwy
 github.com/aphistic/sweet v0.2.0/go.mod h1:fWDlIh/isSE9n6EPsRmC0det+whmX6dJid3stzu0Xys=
 github.com/argoproj/argo-rollouts v1.0.2 h1:QC+5BsHVDnLMnKNhCLoR/E1AT0DpiWIczW5xseEBqDM=
 github.com/argoproj/argo-rollouts v1.0.2/go.mod h1:lSK1l0H/67x3fnBt8GtfQUPJx8DoD9PhchzmDC6nWMI=
+github.com/argoproj/argo-rollouts v1.0.7 h1:cGwkpPN/T40PRWqBayVcTCyfkypxYsGSUHDCQVenrAk=
+github.com/argoproj/argo-rollouts v1.0.7/go.mod h1:lSK1l0H/67x3fnBt8GtfQUPJx8DoD9PhchzmDC6nWMI=
 github.com/argoproj/pkg v0.9.0/go.mod h1:ra+bQPmbVAoEL+gYSKesuigt4m49i3Qa3mE/xQcjCiA=
 github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e/go.mod h1:3U/XgcO3hCbHZ8TKRvWD2dDTCfh9M9ya+I9JpbB7O8o=
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
