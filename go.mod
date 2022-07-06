@@ -7,7 +7,7 @@ require (
 	github.com/openshift/api v0.0.0-20210527122704-efd9d5958e01
 	github.com/openshift/client-go v0.0.0-20210521082421-73d9475a9142
 	github.com/prometheus/client_golang v1.10.0
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.7.1
 	github.com/spf13/cobra v1.1.3
 	k8s.io/api v0.21.2
 	k8s.io/apimachinery v0.21.2
@@ -36,6 +36,7 @@ require (
 	github.com/imdario/mergo v0.3.11 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
+	github.com/magefile/mage v1.10.0 // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
