@@ -11,7 +11,7 @@ require (
 	github.com/spf13/cobra v1.5.0
 	k8s.io/api v0.24.2
 	k8s.io/apimachinery v0.24.2
-	k8s.io/client-go v1.5.2
+	k8s.io/client-go/v5 v5.0.1+incompatible
 )
 
 require (
@@ -76,7 +76,7 @@ replace (
 	k8s.io/apimachinery => k8s.io/apimachinery v0.21.0-alpha.0
 	k8s.io/apiserver => k8s.io/apiserver v0.20.4
 	k8s.io/cli-runtime => k8s.io/cli-runtime v0.20.4
-	k8s.io/client-go => k8s.io/client-go v0.20.4
+	k8s.io/client-go/v5 => k8s.io/client-go v5.0.1+incompatible
 	k8s.io/cloud-provider => k8s.io/cloud-provider v0.20.4
 	k8s.io/cluster-bootstrap => k8s.io/cluster-bootstrap v0.20.4
 	k8s.io/code-generator => k8s.io/code-generator v0.20.5-rc.0
