@@ -11,7 +11,7 @@ require (
 	github.com/spf13/cobra v1.5.0
 	k8s.io/api v0.24.2
 	k8s.io/apimachinery v0.24.2
-	k8s.io/client-go v1.5.2
+	k8s.io/client-go v7.0.0+incompatible
 )
 
 require (
