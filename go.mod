@@ -6,7 +6,7 @@ require (
 	github.com/argoproj/argo-rollouts v1.2.1
 	github.com/openshift/api v0.0.0-20210527122704-efd9d5958e01
 	github.com/openshift/client-go v0.0.0-20210521082421-73d9475a9142
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.5.0
 	k8s.io/api v0.24.2
